@@ -1,0 +1,48 @@
+Rock, Paper, Scissors, Lizard, Spock 
+
+The game was originally created by Sam Kass with Karen Bryla. 
+The game is an expansion on the game Rock, Paper, Scissors. Each player picks a variable and reveals it at the same time. The winner is the one who defeats the others. In a tie, the process is repeated until a winner is found.
+
+Almost always, the boys will all pick Spock at the same time and tie over and over again.
+
+Scissors cuts Paper
+Paper covers Rock
+Rock crushes Lizard
+Lizard poisons Spock
+Spock smashes Scissors
+Scissors decapitates Lizard
+Lizard eats Paper
+Paper disproves Spock
+Spock vaporizes Rock
+(and as it always has) Rock crushes Scissors
+
+Smart calculator
+
+This smart calculator works on the text statement also. The user need not provide algebraic expression always. It fetches the word form the command (given by the user) and then formulates the expression.
+
+Snake Water Gun game
+
+Snake vs. Water: Snake drinks the water hence wins.
+Water vs. Gun: The gun will drown in water, hence a point for water
+Gun vs. Snake: Gun will kill the snake and win.
+
+In situations where both players choose the same object, the result will be a draw.
+
+Snake-Game using Turtle
+
+Turtle: It is a pre-installed python library that enables users to create shapes and pictures by providing them a virtual canvas.
+Time: This function is used to count the number of seconds elapsed since the epoch.
+Random: This function is used to generate random numbers in Python by using random module.
+Rules
+ The snake in the Snake game is controlled using the four direction buttons relative to the direction it is headed in. The player’s objective in the game is to achieve maximum points as possible by collecting food or fruits. The player loses once the snake hits itself.
+
+Rock Paper Scissor game
+Winning Rules as follows :
+
+Rock vs paper-> paper wins
+Rock vs scissor-> Rock wins
+paper vs scissor-> scissor wins.
+
+Number Guessing
+If the number matches then player wins the game and program ends there. But if the number do not match in that case user input is compared with the random generated number.
+Comparision displays the hint for the player. Entered number is greater or smaller than answer.
